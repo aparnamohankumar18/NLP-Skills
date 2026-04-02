@@ -3,7 +3,7 @@ A Collection of NLP-related mini-projects to learn Basic and specialized skills.
 
 Welcome! This repository is a hands-on playground for exploring Natural Language Processing (NLP) through bite-sized projects and practical exercises. Whether you're learning the basics or sharpening your portfolio, these projects are designed to help you build real skills by actually building things.
 
-# 🚀 What You’ll Explore<br><br>
+## 🚀 What You’ll Explore<br><br>
 
 Each mini project focuses on a core concept in modern NLP and applied machine learning:<br><br>
 
